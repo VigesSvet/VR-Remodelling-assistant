@@ -937,4 +937,6 @@ PlayerSettings:
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
-  platformRequiresRe
+  platformRequiresReadableAssets: 0
+  virtualTexturingSupportEnabled: 0
+  insecureHttpOption: 0
